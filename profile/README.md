@@ -1,6 +1,6 @@
 ![Header](/profile/header.png)
 
-<img src="/profile/icon-v2.png" width="50" align="left"/>
+<img src="/profile/icon-v2.png" width="40" align="left"/>
 
 ## Hi I'm rinn, and I do ux things!
 
